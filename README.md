@@ -60,7 +60,8 @@ make up
 ```
 
 ## Gestion Agile / Kanban
-- Un GitHub Project (Kanban) a été créé pour suivre l'avancement.
+- Un GitHub Project (Kanban) a été créé pour suivre l'avancement :
+  👉 [Tableau Kanban du projet](https://github.com/users/NoeCalmes/projects/1)
 - Les tickets principaux sont :
   - CRUD API Tâches
   - Dockerisation de l'app
