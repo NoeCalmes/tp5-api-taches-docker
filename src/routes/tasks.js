@@ -4,7 +4,6 @@ const { Task } = require('../models/task');
 
 // CREATE
 router.post('/', async (req, res) => {
-  console.log('BODY REÇU :', req.body); // Ajoute cette ligne
   try {
     const task = await Task.create(req.body);
     res.status(201).json(task);
